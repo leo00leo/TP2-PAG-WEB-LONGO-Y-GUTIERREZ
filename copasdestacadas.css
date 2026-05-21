@@ -99,14 +99,3 @@ body {
   text-align: center;
   }
 
-#contenido {
-  display: none;
-}
-#contenido {
-  opacity: 0;
-  transition: opacity 1.5s ease;
-}
-
-#contenido.mostrar {
-  opacity: 1;
-}
